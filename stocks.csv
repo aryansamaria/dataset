@@ -1,0 +1,18 @@
+symbol,company,sector,description
+HDFCBANK,HDFC Bank Ltd.,Private Sector Banks,"India's largest private sector bank offering retail banking, corporate banking, investment banking, and digital financial services with extensive branch network"
+ICICIBANK,ICICI Bank Ltd.,Private Sector Banks,"Leading private bank providing comprehensive banking solutions including retail, corporate, treasury, and international banking services across multiple countries"
+AXISBANK,Axis Bank Ltd.,Private Sector Banks,"Third largest private sector bank offering banking and financial services to large corporates, SMEs, and retail customers with strong digital presence"
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Private Sector Banks,"Full-service commercial bank providing banking and financial services including retail banking, corporate banking, and wealth management solutions"
+SBIN,State Bank of India,Public Sector Banks,India's largest public sector bank with extensive domestic and international presence providing comprehensive banking and financial services
+PNB,Punjab National Bank,Public Sector Banks,"Major nationalized bank offering retail banking, corporate banking, international banking, and treasury operations with wide branch network"
+BANKBARODA,Bank of Baroda,Public Sector Banks,"Leading public sector bank with global presence providing banking services to retail, corporate, and institutional clients worldwide"
+CANBK,Canara Bank,Public Sector Banks,"Major public sector bank offering comprehensive banking services including retail banking, corporate banking, and international operations"
+BAJFINANCE,Bajaj Finance Ltd.,Non-Banking Financial Companies (NBFC),"Leading consumer finance company providing personal loans, business loans, EMI financing, and digital lending solutions across India"
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Non-Banking Financial Companies (NBFC),"Leading rural and semi-urban focused NBFC providing vehicle financing, tractor loans, and SME financing solutions"
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Non-Banking Financial Companies (NBFC),"Diversified financial services company offering vehicle finance, home loans, business loans, and investment services"
+SHRIRAMFIN,Shriram Finance Ltd.,Non-Banking Financial Companies (NBFC),"Leading NBFC providing commercial vehicle financing, passenger vehicle loans, two-wheeler financing, and gold loans"
+LICI,Life Insurance Corporation of India,Insurance,"India's largest life insurance company providing comprehensive life insurance products, pension schemes, and investment solutions"
+SBILIFE,SBI Life Insurance Company Ltd.,Insurance,"Leading private life insurance company offering term plans, savings plans, retirement solutions, and health insurance products"
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Insurance,"Major life insurance provider offering individual and group life insurance, pension plans, and unit-linked insurance plans"
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,Insurance,"Leading general insurance company providing motor, health, travel, home, and commercial insurance solutions"
+TCS,Tata Consultancy Services Ltd.,IT Services & Software,"Global leader in IT services, consulting, and business solutions offering digital transformation, cloud services, and enterprise software development"
